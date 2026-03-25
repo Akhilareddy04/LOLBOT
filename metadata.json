@@ -1,0 +1,8 @@
+{
+  "name": "LOLBOT ",
+  "description": "An emotionally aware AI companion that listens without judgment, providing a safe space for those feeling lonely or overwhelmed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
